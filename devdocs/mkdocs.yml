@@ -1,0 +1,9 @@
+site_name: My Docs
+theme: 'material'
+Pages:
+- pagina1: 'index.md'
+- Josep: 'Josep.md'
+- Oscar: 'Oscar.md'
+- Instal·lació Docker: 'docker_install.md'
+- Apunts Docker: 'Apunts_Docker.md'
+- Prova git: 'Prova_git.md'
